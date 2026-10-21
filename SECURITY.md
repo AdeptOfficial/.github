@@ -45,4 +45,8 @@ security fixes. Self-hosted apps are run by their operators; keep your instance 
 adeptproductions.dev and me.adeptproductions.dev are static sites. Findings about their
 headers, CSP or build pipeline are welcome through the same channels.
 
-// code-signed by AdepT_X
+## // codesign
+
+<img src="https://raw.githubusercontent.com/AdeptOfficial/AdeptOfficial/main/assets/codesign-typing.svg" alt="// code-signed by AdepT_X · stay sad and dead <3">
+
+<p align="right"><img src="https://raw.githubusercontent.com/AdeptOfficial/AdeptOfficial/main/assets/codesign.svg" alt="// code-signed by AdepT_X · stay sad and dead <3"></p>
