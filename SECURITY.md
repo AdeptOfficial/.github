@@ -1,7 +1,7 @@
 # Security policy
 
 This policy covers every public repository under github.com/AdeptOfficial, including the
-self-hosted apps (AMP Watchdog, Domain Watcher, Status Tracker, ConnectHub), the websites,
+self-hosted apps (AMP Watchdog, Domain Watcher, Status Tracker), the websites,
 and Uplink, the account platform planned for app.adeptproductions.dev. A repository with its
 own SECURITY.md overrides this file.
 
